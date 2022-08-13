@@ -1,5 +1,5 @@
 # AZYPC0001
-Playing cards series non-fungible asset (NFA) by Azylem - AZYDS0001 "Enter The Machine v1"
+Playing cards series non-fungible asset (NFA) by Azylem
 
 Copyright 2022 Azylem. All rights reserved.
 
